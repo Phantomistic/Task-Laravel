@@ -1,0 +1,21 @@
+ /* Custom styles for the tasks page */
+ .card-header {
+     background-color: #7DB58D;
+     /* Primary color */
+     color: #fff;
+     /* Text color */
+ }
+
+ .btn-secondary {
+     background-color: #A07C7C;
+     /* Secondary color */
+     border-color: #A07C7C;
+     /* Secondary color */
+ }
+
+ .btn-secondary:hover {
+     background-color: #65756A;
+     /* Tertiary color */
+     border-color: #65756A;
+     /* Tertiary color */
+ }
